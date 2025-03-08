@@ -17,8 +17,6 @@ We analyze key statistical features, including:
 - **PTS** (Points per game)
 - **AST** (Assists per game)
 - **TRB** (Total rebounds per game)
-- **FG%** (Field goal percentage)
-- **3P%** (Three-point field goal percentage)
 
 ### **2. Data Preprocessing**
 - **Handling Missing Values:**
